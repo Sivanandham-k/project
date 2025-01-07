@@ -305,6 +305,9 @@ nav svg {
 }
 
 @media (max-width:670px) {
+  .slider{
+    height: 90vh;  
+  }
   .links-container {
     flex-direction: column;
     align-items: flex-start;
